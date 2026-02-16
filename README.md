@@ -41,8 +41,8 @@ scripts/      : Jupyter notebooks and analysis scripts
 
 ## Note:
 - Raw data is stored locally in the `data/` folder
-- The raw CSV file is excluded from GitHub using `.gitignore`
-- Only relative paths are used (e.g., `../data/women_in_stem.csv`)
+- The raw CSV file is excluded from GitHub using '.gitignore'
+- Only relative paths are used (e.g., '../data/women_in_stem.csv')
 
 ## How to run:
 1. Place the dataset inside the `data/` folder
