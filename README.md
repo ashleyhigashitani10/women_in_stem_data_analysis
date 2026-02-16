@@ -18,6 +18,8 @@ This project (baby project) was continued into a "toddler project".
 
 Toddler project involves joining the women_in_stem kaggle dataset with the new GDP per capita dataset.
 
+Dataset used: (https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
+
 The join was performed using compound keys:
 - Country
 - Year
@@ -25,9 +27,9 @@ The join was performed using compound keys:
 This join was a left join to preserve the primary dataset (women_in_stem)
 
 New files created:
-- stem_clean.csv
-- stem_gdp_join.csv
-- BABI4005_Toddler_Project.ipynb
+- 'stem_clean.csv'
+- 'stem_gdp_join.csv'
+- 'BABI4005_Toddler_Project.ipynb'
 
 ## File structure breakdown:
 
