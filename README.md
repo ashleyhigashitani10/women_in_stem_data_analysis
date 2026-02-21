@@ -29,7 +29,7 @@ This join was a left join to preserve the primary dataset (women_in_stem)
 New files created:
 - 'stem_clean.csv'
 - 'stem_gdp_join.csv'
-- 'BABI4005_Toddler_Project.ipynb'
+- 'women_in_stem_with_GDP_analysis.ipynb'
 
 ## File structure breakdown:
 
